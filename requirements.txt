@@ -1,0 +1,8 @@
+# World Energy Consumption Forecasting using LSTM
+# Core Deep Learning & Scientific Computing Dependencies
+
+tensorflow>=2.15.0
+numpy>=1.23.5
+pandas>=2.0.0
+scikit-learn>=1.2.0
+matplotlib>=3.7.0
